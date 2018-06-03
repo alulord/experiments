@@ -1,6 +1,5 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
-// const TrackVisibility = require('react-on-screen');
 
 import TrackVisibility from 'react-on-screen';
 

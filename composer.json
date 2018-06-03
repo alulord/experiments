@@ -62,11 +62,17 @@
             "cache:clear": "symfony-cmd",
             "assets:install --symlink --relative %PUBLIC_DIR%": "symfony-cmd"
         },
+        "npm-scripts":[
+            "npm install",
+            "npm run dev"
+        ],
         "post-install-cmd": [
-            "@auto-scripts"
+            "@auto-scripts",
+            "@npm-scripts"
         ],
         "post-update-cmd": [
-            "@auto-scripts"
+            "@auto-scripts",
+            "@npm-scripts"
         ]
     },
     "conflict": {
