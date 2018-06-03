@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vita-verde-youtube",
+  "private_key_id": "b178961a20c4311e5d3fa11f08c0855213df9553",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrFRCPtXMOMAR5\nX3tF/WRMCWH7k9/SmyJ1vr2pEwv+oo/adViwH6U+EOwuE9dkhowkzJNGM/zgBaLC\n9rWq9Pm0mqsRUqo/irqMxKzZPZGMHxyU2KPz+JtWr1O7Ni7DqVSc88NVfQEWkrq8\nsvHaZ0Hi5+qB4n0zlUVuOk9qqD0Qn2kuuJ+yWXtyX2QeTh4POe7H8BSxBlh5u+4D\nxk97FNiAdoSKiExh3/f8W22lFQE8Fi2FCwPcT9UnBtp5HUgwtliOxXKxg5yPH9QR\ncn04Xdu80ZEUg6evom3LHtrO+850yHYNBBV0vSYdlbwCDw2+WC5pZnuJdD8PM68J\n6VeLdLYFAgMBAAECggEACjNqVmHyUfaTqGJaE6qahVzLMS34Wt1nKPAjl5DhgTWo\n2tTDt1SxDJ9ZBcenFdZemtRxNO66oDzrHzGIqYCL4bSV3frjgysUGSVM98hlBPQs\nnG9tGd9JRoTpEDDt3uVvfHWdwFuAv3DQ85lpNFA91yK5komyVMC3cBgdTiBpQQlh\nuGvUk+6T7LQcqRrqtA+f6AHHDVVdXO/OqZqVyEdNq2zo5Dyt60DPfJF9Yt6i/PIi\nqC9VNgHttPnO99zPuYfomgBYMZFDldANqReg3/Sf0L6z+Pyq2ZouZkI0hW5yH471\nd1pa6cTsNNT/hmqFFU2pjY5foTTSr7H2XCiBag5nTQKBgQDxMCVBTBfv1l3jkubj\nOIn0r0ZKWrpe5y39UsKB7z5JvFXz81zF/VVnWCsDjgbdlvMo8B4UDRiw2Gaez8vM\n0Jzj+VEMFiH4Ed6SH4IbpJEw8RXtM9VJ90Vm1Au6pMXqX2QlAbo4msdZ3cLBoOG2\nbJQqd6PVKAIwZVehUDxsGrlSdwKBgQC1lr8Qwtu6FTN8Zy5KWDowJW/fqjv86mrD\nuR9FWvBDgqR8Vm2pCAMUtggmMiHS9hoRmQKCDduYpCxHsYso5RdqdQeYExBrUFvp\nc0jvHGzhpikV/5rJ4pK0Fc3T/3oTHv60mi6zjHhMwbi0wbIO2kQlGeFoGySg++HQ\nqPTyFfc+YwKBgQDeVpLRehNK7mPJCcA80P8kCHwUyUSrfhQARk22uFTEZpEZ/UuV\n3S7gwP+OHFyp46CvKYOg2l3bkPIxDsACRIGNC2WybajM5bQ3IkKvtup9opGjBDho\nIkHhRDK30XP91ggcsVX5Hn4NkwgZtXS91aRU7cujEWnLMXEx7SR2R8B1iwKBgCuG\nt8OvwXVoMZAnN1xQq5nwz1EggAKOugqyLAG225KDFSRMnzp+Fib3vxpQt/TWUsdX\nEtfTtIhxCcAhmYay6xr0dF6Ka0wd1fouTRQrjxnDd2OzggnUSm/qLg0b1soQiuMF\ndh5JlGhpovmI2EJhJSZzfqkyoGQKHEWkyhnhFAObAoGBAL017fvATlWEtcKDd6X0\nlL6WG4DMR5rxx5ZoofoK3NncY+haXJNFRzGDBwzdce7ZAMtS4onYHVepfak49HrR\nmVnVXG7XiEckPMxl8tIuVWIb/Vj1UpFqt/YCSqScnY5lDUrQBnPm3mb7/VYIuF54\n7dq7fJ5vh4aYDWujG/yvoD4X\n-----END PRIVATE KEY-----\n",
+  "client_email": "vita-verde-youtube@appspot.gserviceaccount.com",
+  "client_id": "100213506456520270909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vita-verde-youtube%40appspot.gserviceaccount.com"
+}
