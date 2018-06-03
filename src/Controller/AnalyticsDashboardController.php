@@ -8,7 +8,7 @@ use Symfony\Component\Routing\Annotation\Route;
 class AnalyticsDashboardController extends Controller
 {
     /**
-     * @Route("/", name="analytics_dashboard")
+     * @Route("/analytics", name="analytics_dashboard")
      */
     public function index()
     {
