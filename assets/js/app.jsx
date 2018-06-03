@@ -2,7 +2,17 @@ const React = require('react');
 const ReactDOM = require('react-dom');
 
 import TrackVisibility from 'react-on-screen';
-
+import AdBlockDetect from 'react-ad-block-detect';
+class MyComponent extends React.Component {
+    render() {
+        return (
+            <AdBlockDetect>
+                <p>Show this if an ad blocker has been enabled.</p>
+            </AdBlockDetect>
+        );
+    }
+}
+ReactDOM.render(<MyComponent/>,document.getElementById('root'));
 
 class HelloMessage extends React.Component {
     render() {

@@ -17,6 +17,7 @@
         "npm": "^6.1.0",
         "prop-types": "^15.6.1",
         "react": "^16.4.0",
+        "react-ad-block-detect": "^1.0.1",
         "react-dom": "^16.4.0",
         "react-on-screen": "^2.0.4"
     }
